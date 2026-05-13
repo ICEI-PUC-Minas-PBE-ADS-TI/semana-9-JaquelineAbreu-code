@@ -3,11 +3,39 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <script src="script.js"></script>
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TravelGo - Pacotes de Viagem</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    
+
+    <header>
+        <h1>TravelGo - Pacotes de Viagem</h1>
+    </header>
+
+    <section class="controls">
+        <input type="text" id="search" placeholder="Buscar destino...">
+
+        <select id="category">
+            <option value="Todas">Todas</option>
+        </select>
+
+        <button id="btnRender">Renderizar</button>
+    </section>
+
+    <main>
+        <div id="product-list"></div>
+
+        <div id="product-details">
+            <h2>Detalhes do Pacote</h2>
+            <p>Clique em "Ver detalhes" para visualizar informações.</p>
+        </div>
+    </main>
+
+    <script src="script.js"></script>
 </body>
 </html>
