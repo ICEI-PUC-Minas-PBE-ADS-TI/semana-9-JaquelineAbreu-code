@@ -10,10 +10,10 @@ Nesta atividade, será desenvolvido um programa para praticar o uso de funções
 ## Prints do trabalho
 
 <<  COLOQUE A IMAGEM - TELA DE CARDS DE PRODUTOS - AQUI >>
-![Tela Cards de Viagens](Imagens/Cards.jpeg)
+![Tela Cards de Viagens](./Imagens/Cards.jpeg)
 
 <<  COLOQUE A IMAGEM - TELA DE DETALHE DO PRODUTO - AQUI >>
-![Detalhes dos Pacotes](Imagens/Detalhes.jpeg)
+![Detalhes dos Pacotes](./Imagens/Detalhes.jpeg)
 
 <<  COLOQUE A IMAGEM - TELA DO CONSOLE - AQUI >>
-![Tela do Console](Imagens/Console.jpeg)
+![Tela do Console](./Imagens/Console.jpeg)
